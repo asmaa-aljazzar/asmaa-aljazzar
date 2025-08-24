@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaa-aljazzar&show_icons=true&locale=en" alt="asmaa-aljazzar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaa-aljazzar&" alt="asmaa-aljazzar" /></p>
-![snake animation](https://asmaa-aljazzar.github.io/asmaa-aljazzar/github-snake-dark.svg)
+![snake gif](https://github.com/asmaa-aljazzar/asmaa-aljazzar/blob/output/github-snake-dark.svg)
