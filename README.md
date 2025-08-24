@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaa-aljazzar&" alt="asmaa-aljazzar" /></p>
 <div align = "center" >
-  ![snake gif](https://github.com/asmaa-aljazzar/asmaa-aljazzar/blob/output/github-snake-dark.svg)
+  ![snake gif]<p><img align="center" src ="https://github.com/asmaa-aljazzar/asmaa-aljazzar/blob/output/github-snake-dark.svg)alt="asmaa-aljazzar" /></p>
 </div>
