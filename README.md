@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asmaa Aljazzar</h1>
 <h3 align="center">Full-Stack Web Developer & Software Engineer</h3>
 
+<div align="center">
+  <p><img align="center" src="https://media1.tenor.com/m/bBTnc1xz5t8AAAAC/fyodor-dostoyevsky-fyodor.gif" alt="asmaa-aljazzar" /></p>
+</div>
+
 <p align="center">Passionate about building scalable applications, solving algorithmic challenges, and growing through 42 School projects.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaa-aljazzar&label=Profile%20views&color=0e75b6&style=flat" alt="asmaa-aljazzar" /> </p>
