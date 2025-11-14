@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmaa-aljazzar" alt="asmaa-aljazzar" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack projects** and continuing my 42 journey with C and Shell programming.  
-
 - 🌱 I’m currently learning **MERN stack development, C language, Shell scripting — all in a Linux environment.**  
 
 - 🎯 Next, I plan to dive into **Docker, DevOps, and AI fundamentals.**  
