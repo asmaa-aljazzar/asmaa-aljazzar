@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Hi,%20I'm%20Asmaa%20Aljazzar&fontSize=35&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&speed=30&pause=300&color=c976ff&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&speed=30&pause=100&color=c976ff&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Software+Engineer" />
 
 I build scalable applications, solve algorithmic problems, and grow through intensive project-based learning at 42 School.
 
