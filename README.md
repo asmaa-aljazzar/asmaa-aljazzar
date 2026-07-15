@@ -36,12 +36,6 @@ I build scalable applications, solve algorithmic problems, and grow through inte
 
 ---
 
-### GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=asmaa-aljazzar&theme=radical&no-frame=true&column=7" />
-</p>
-
 ---
 
 ### GitHub Activity
