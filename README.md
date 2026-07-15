@@ -2,9 +2,9 @@
 <tr>
 <td width="60%" valign="middle">
 
-<!-- <h1 align="left">Hi, I'm Asmaa Aljazzar</h1> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=140&section=header&text=Hi,%20I'm%20Asmaa%20Aljazzar&fontSize=35&fontColor=ffffff&fontAlignY=35" width="100%"/>
-<h3 align="left">Full-Stack Web Developer &amp; Software Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Hi,%20I'm%20Asmaa%20Aljazzar&fontSize=35&fontColor=ffffff&fontAlignY=35" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Software+Engineer" />
 
 I build scalable applications, solve algorithmic problems, and grow through intensive project-based learning at 42 School.
 
@@ -23,22 +23,24 @@ I build scalable applications, solve algorithmic problems, and grow through inte
 - Comfortable with low-level logic, system thinking, and structured problem solving
 - Interested in building systems that are correct before they are clever
 
-📫 **Contact:** [asma.jazar.319@gmail.com](mailto:asma.jazar.319@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/asmaa-aljazzar](https://linkedin.com/in/asmaa-aljazzar)
+<p align="center">
+<a href="https://linkedin.com/in/asmaa-aljazzar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:asma.jazar.319@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ### Core Technologies
-| C | JavaScript | React | Node.js | Express | MongoDB | Linux |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /> |
+
+[![My Skills](https://skillicons.dev/icons?i=c,js,react,nodejs,express,mongodb,linux,php,java,mysql,python,nextjs,bootstrap,css)](https://skillicons.dev)
 
 ---
 
-### Additional Experience
-| PHP | Java | MySQL | Bootstrap | CSS3 | Python | Next.js |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js" /> |
+### GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=asmaa-aljazzar&theme=radical&no-frame=true&column=7" />
+</p>
 
 ---
 
@@ -48,7 +50,4 @@ I build scalable applications, solve algorithmic problems, and grow through inte
   <img src="https://raw.githubusercontent.com/asmaa-aljazzar/asmaa-aljazzar/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/asmaa-aljazzar?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/asmaa-aljazzar?affiliations=OWNER&style=social" alt="GitHub stars" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%"/>
