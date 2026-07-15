@@ -3,7 +3,7 @@
 <td width="60%" valign="middle">
 
 <!-- <h1 align="left">Hi, I'm Asmaa Aljazzar</h1> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Asmaa%20Aljazzar&fontSize=35&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Hi,%20I'm%20Asmaa%20Aljazzar&fontSize=35&fontColor=ffffff" width="100%"/>
 
 <h3 align="left">Full-Stack Web Developer &amp; Software Engineer</h3>
 
