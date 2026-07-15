@@ -42,10 +42,10 @@ I build scalable applications, solve algorithmic problems, and grow through inte
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaa-aljazzar&show_icons=true&theme=dark&cache_seconds=86400" alt="Asmaa's GitHub stats" />
+  <img src="https://github-readme-stats-ten-kappa-gxr8imu8vm.vercel.app/api?username=asmaa-aljazzar&show_icons=true&theme=dark&cache_seconds=86400" alt="Asmaa's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-aljazzar&layout=compact&theme=dark&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-readme-stats-ten-kappa-gxr8imu8vm.vercel.app/api/top-langs?username=asmaa-aljazzar&layout=compact&theme=dark&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <div align="center">
