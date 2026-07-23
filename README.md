@@ -38,6 +38,12 @@ I build scalable applications, solve algorithmic problems, and grow through inte
 
 ---
 
+[![GradeMe profile card for @404](https://grademe.fr/api/cards/4bdc33ae-4cce-4b7e-a98f-c2a10561697c.svg)](https://grademe.fr/app/user/52f319c0-767f-4b78-a694-bea8eb37fb0c)
+
+---
+
+---
+
 ### GitHub Activity
 
 <div align="center">
